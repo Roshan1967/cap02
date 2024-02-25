@@ -1,0 +1,20 @@
+.parent{
+    height: 220px;
+    width: 900px;
+    background-color:gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 150px;
+    
+}
+.parent div{
+    width: 150px;
+    height: 150px;
+    background-color:whitesmoke ;
+    border-radius: 15px;
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+}
+
