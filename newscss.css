@@ -1,0 +1,46 @@
+.main1{
+    background-color: azure;
+    width: auto;
+    height: 400px;
+}
+.child img{
+    height: 60px;
+    width: auto;
+}
+.child{
+    height: 200px;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    border-color: brown;
+    border-radius: 1px;
+}
+.buttonn{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.ran{
+    color: skyblue;
+}
+.clone{
+   height: 100px;
+   width: 150px;
+   border-radius: 5px;
+}
+.clone img{
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.main2{
+    display: flex;
+    justify-content: space-around;
+}
